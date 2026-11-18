@@ -1,0 +1,9 @@
+{
+  "name": "adjacent-possible",
+  "version": "0.1.0",
+  "description": "Break out of your X (Twitter) filter bubble: prune noise, keep relationships, follow verified accounts one step outside what you already see.",
+  "author": { "name": "raullenchai" },
+  "homepage": "https://github.com/raullenchai/skills",
+  "license": "MIT",
+  "keywords": ["twitter", "x", "filter-bubble", "echo-chamber", "feed", "chrome"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "raullenchai-skills",
+  "owner": { "name": "raullenchai" },
+  "description": "Agent skills by raullenchai.",
+  "plugins": [
+    {
+      "name": "adjacent-possible",
+      "source": "./plugins/adjacent-possible",
+      "description": "Break out of your X (Twitter) filter bubble: prune noise, keep relationships, follow verified accounts one step outside what you already see."
+    }
+  ]
+}
