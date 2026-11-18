@@ -1,19 +1,37 @@
 # skills
 
-Agent skills for [Claude Code](https://claude.com/claude-code). Install the whole collection as a plugin marketplace:
+A personal collection of [Claude Code](https://claude.com/claude-code) skills, hand-crafted by
+**Raullen** ([@Raullen](https://x.com/Raullen)) out of real problems in his own day-to-day work.
+Each skill is something he built for himself first, used for real, and then cleaned up to share.
+
+More skills will be added over time — each one is a separate plugin you can install on its own.
+
+## Install
+
+Add the collection once:
 
 ```
 /plugin marketplace add raullenchai/skills
+```
+
+Then install the skills you want:
+
+```
 /plugin install adjacent-possible@raullenchai-skills
 ```
 
-| Skill | What it does |
-|---|---|
-| [adjacent-possible](plugins/adjacent-possible/skills/adjacent-possible/SKILL.md) | Break out of your X (Twitter) filter bubble |
+## Skills
+
+| Skill | What it does | Status |
+|---|---|---|
+| [adjacent-possible](#adjacent-possible) | Break out of your **X (Twitter) filter bubble**: prune noise, keep relationships, follow verified accounts one step outside what you already see | v0.1 |
+| *more coming* | | |
 
 ---
 
 ## adjacent-possible
+
+**A skill for breaking out of your filter bubble on X (Twitter).**
 
 > *The adjacent possible* — Stuart Kauffman's term for everything one step away from where you are:
 > reachable, but not yet explored.

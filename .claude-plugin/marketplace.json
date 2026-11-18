@@ -1,7 +1,7 @@
 {
   "name": "raullenchai-skills",
   "owner": { "name": "raullenchai" },
-  "description": "Agent skills by raullenchai.",
+  "description": "Claude Code skills hand-crafted by Raullen from real day-to-day problems. More added over time.",
   "plugins": [
     {
       "name": "adjacent-possible",
